@@ -4,4 +4,4 @@
 Nelle varie cartelle sono presenti:
 - template di partenza per lo svolgimento dei laboratori
 - report
-- zip contenente la soluzione effetitvamente consegnata al docente
+- zip contenente la soluzione effettivamente consegnata al docente
