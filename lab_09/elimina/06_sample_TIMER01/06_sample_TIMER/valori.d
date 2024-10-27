@@ -1,1 +1,0 @@
-.\valori.o: valori.s
